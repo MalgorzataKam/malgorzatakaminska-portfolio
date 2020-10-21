@@ -1,0 +1,66 @@
+body {
+	background-color: teal;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+}
+
+.main-container {
+	display: flex;
+	margin: 0;
+	margin-top: 1rem;
+	padding:0;
+	position: relative;
+	height: 648px;
+	width: 1152px;
+	background-image: url("../imgs/background.png");
+	align-items: center;
+	justify-content: space-around;
+	border: 1px solid navy;
+	cursor: url(../imgs/cursor.png), auto;
+}
+.worm-meter {
+	position:absolute;
+	top: 2px;
+	left: 150px;
+	width: 650px;
+    height: 58px;
+	clip: rect(0, 0, 58px, 0);
+}
+
+.hole {
+	background-color: #382428;
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+	border: 3px solid #9a784f;
+	margin-bottom: 20px
+}
+
+.hole img {
+	text-align:center;
+}
+
+.hidden {
+	display: none;
+}
+
+.hungryMole {
+	cursor: url(../imgs/cursor-worm.png), auto;
+}
+
+.win-screen {
+	display: flex;
+	margin: 0;
+	margin-top: 1rem;
+	padding:0;
+	position: relative;
+	height: 648px;
+	width: 648px;
+	background-image: url("../imgs/win.png");
+	align-items: center;
+	justify-content: space-around;
+	border: 1px solid navy;
+}
