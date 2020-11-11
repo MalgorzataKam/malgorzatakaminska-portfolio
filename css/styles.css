@@ -1,0 +1,112 @@
+* {
+    box-sizing: border-box;
+}
+
+.more-side-padding {
+    padding-left: 8rem;
+    padding-right: 6rem;
+}
+
+nav {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.1rem;
+    border-bottom: 2px solid #6ba292;
+}
+
+.navbar-brand-custom {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    margin-right: 10rem; 
+}
+
+.brand h2, .form-text-custom {
+    font-size: 1rem;
+    margin-top: 0;
+    letter-spacing: 1px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.form-text-custom input::placeholder {
+    font-style: italic;
+}
+
+li.nav-item {
+    padding-right: 2rem;
+}
+
+.btn-submit {
+    background-color: #6ba292;
+    color: #e4fde1;
+}
+.btn-submit:hover {
+    background-color: #336666;
+    color:#e4fde1;
+}
+
+a, a:hover, a p {
+    text-decoration:none;
+}
+
+main {    
+    padding: 2rem 4rem;
+    font-size: 1rem;
+    font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+
+.project {
+    border-left: 5px solid #6ba292;
+}
+
+.project-intro {
+    font-size: 1.1rem;
+    padding-bottom: 1.5rem;
+}
+
+.project-more {
+    font-size: 1rem;
+    color: lightgray;
+}
+
+.project-more {
+    color: darkgray;
+}
+
+#articleCal img, .calc {
+    max-height: 60vh;
+    width:auto;
+}
+
+.container-case-studies hr {
+        border-color: #64a19d;
+        border-width: 0.25rem;
+        width: 30%;
+        float: left;
+}
+
+.container-case-studies img, .example-project img.website-image {
+    padding: .5rem .5rem;
+    margin-bottom: .5rem;
+    opacity: 0.85;
+    box-shadow: 25px 25px 70px 0 white inset, -25px -25px 70px 0 white inset;
+    margin-top: 1rem;
+    /* webkit-filter: grayscale(100%); Safari 6.0 - 9.0 */
+    /* filter: grayscale(100%); */
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.my-footer ul {
+  font-family: "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  letter-spacing: 0.0625em;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  justify-content: space-between;
+  font-size: 0.8rem;
+  margin-bottom: 0;
+}
