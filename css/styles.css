@@ -103,13 +103,12 @@ main {
         float: left;
 }
 
-.container-case-studies img {
+.container-case-studies img, iframe {
     padding: .5rem .5rem;
     margin-bottom: .5rem;
     opacity: 0.85;
     box-shadow: 25px 25px 70px 0 white inset, -25px -25px 70px 0 white inset;
     margin-top: 1rem;
-    webkit-filter: grayscale(100%); Safari 6.0 - 9.0;
 }
 
 .about {
