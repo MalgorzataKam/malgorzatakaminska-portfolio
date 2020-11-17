@@ -103,7 +103,7 @@ main {
         float: left;
 }
 
-.container-case-studies img, iframe {
+.example-project img, .example-project iframe {
     padding: .5rem .5rem;
     margin-bottom: .5rem;
     opacity: 0.85;
