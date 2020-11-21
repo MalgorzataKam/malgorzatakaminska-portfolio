@@ -9,7 +9,7 @@ title {
 nav {
     font-family: 'Bebas Neue', cursive;
     font-size: 1.1rem;
-    border-bottom: 2px solid #6ba292;
+    /* border-bottom: 2px solid #6ba292; */
 }
 
 .navbar-brand-custom {
