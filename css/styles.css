@@ -98,7 +98,7 @@ main {
     margin-left: 1rem;
 }
 
-.banner-2 {
+.banner2 {
     margin-left: 1rem;
     /* max-height: 80vh;
     width: auto; */
@@ -119,14 +119,14 @@ main {
     box-shadow: 25px 25px 70px 0 white inset, -25px -25px 70px 0 white inset;
     margin-top: 1rem;
 }
-.example-project iframe.banner-1 {
+.example-project iframe.banner1 {
     width: 320px;
     height: 270px;
     box-shadow: none;
     background-color: white;
 }
 
-.example-project iframe.banner-2 {
+.example-project iframe.banner2 {
     width: 180px;
     height: 620px;
     box-shadow: none;
@@ -202,7 +202,7 @@ main {
         margin: 0;
     }
 
-    .banner-2 {
+    .banner2 {
         margin-left: 3rem;
     }
 }
