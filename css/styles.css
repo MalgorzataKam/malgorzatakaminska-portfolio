@@ -149,6 +149,13 @@ main {
   margin-bottom: 0;
 }
 
+#particles-js{
+    position:absolute; 
+    width: 100%; 
+    height: 100%;
+    margin: -14rem -24rem -20rem -20rem;
+}
+
 @media screen and (max-width: 800px) {
     .more-side-padding {
         padding: .5rem;
@@ -161,6 +168,9 @@ main {
     }
     .about h4, .project-intro {
         font-size: 1.1rem;
+    }
+    #particles-js{
+        margin: 0;
     }
 }
 
@@ -177,12 +187,5 @@ main {
         padding-left: 1rem;
         padding-right: .5rem;
     }
-}
-
-#particles-js{
-    position:absolute; 
-    width: 100%; 
-    height: 100%;
-    margin: -14rem -24rem -20rem -20rem;
 }
 
