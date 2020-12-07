@@ -48,7 +48,7 @@ function showNext() {
 async function init () {
     // added proxy to get around CORS issues for local development
     const proxyurl = "https://cors-anywhere.herokuapp.com/";
-    const url = "http://rekrutacjartb.pl/developer/banner.json"
+    const url = "https://malgorzatakaminska.github.io/banner.json "
     
     var nextSlide = setInterval(nextOfferAuto,2000);
     fetch(proxyurl+url)
