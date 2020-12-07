@@ -1,15 +1,15 @@
 {"offers":[
 
-	{"name": "Red dress M", "price": "89", "currency":"PLN", "imgURL": "http://rekrutacjartb.pl/developer/images/offer1.jpg"},
+	{"name": "Red dress", "price": "190.99", "currency":"PLN", "imgURL": "https://images.unsplash.com/photo-1599859111054-e8979c0bb4ea?ixid=MXwxMjA3fDB8MXxzZWFyY2h8MjF8fHxlbnwwfHx8&ixlib=rb-1.2.1&dpr=2&auto=format&fit=crop&w=120&q=60"},
 
-	{"name": "Twisted", "price": "990", "currency":"PLN", "imgURL": "http://rekrutacjartb.pl/developer/images/offer2.jpg"},
+	{"name": "Retro Skirt", "price": "990", "currency":"PLN", "imgURL": "https://images.unsplash.com/photo-1509182469511-7f0b50bfa63e?ixid=MXwxMjA3fDB8MXxzZWFyY2h8MXx8fHwwfHx8&ixlib=rb-1.2.1&dpr=2&auto=format&fit=crop&w=120&h=200&q=60"},
 
-	{"name": "Circle Pendant White Gold-plated", "price": "79", "currency":"PLN", "imgURL": "http://rekrutacjartb.pl/developer/images/offer3.jpg"},
+	{"name": "Magical Pendant", "price": "75.90", "currency":"PLN", "imgURL": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?ixid=MXwxMjA3fDB8MXxzZWFyY2h8MTJ8fHx8MHx8fA&ixlib=rb-1.2.1&dpr=2&auto=format&fit=crop&w=120&h=200&q=60"},
 
-	{"name": "Women", "price": "4000", "currency":"PLN", "imgURL": "http://rekrutacjartb.pl/developer/images/offer4.jpg"},
+	{"name": "Snazy Dress", "price": "3000", "currency":"PLN", "imgURL": "https://images.unsplash.com/photo-1551084804-4b60b3c10f9e?ixid=MXwxMjA3fDB8MXxzZWFyY2h8MTV8fHx8MHx8fA&ixlib=rb-1.2.1&dpr=2&auto=format&fit=crop&w=120&h=200&q=60"},
 
-	{"name": "T-shirt", "price": "100", "currency":"PLN", "imgURL": "http://rekrutacjartb.pl/developer/images/offer5.jpg"},
+	{"name": "Awesome T-shirt", "price": "150", "currency":"PLN", "imgURL": "https://images.unsplash.com/photo-1522706604291-210a56c3b376?ixid=MXwxMjA3fDB8MXxzZWFyY2h8Nnx8fHwwfHx8&ixlib=rb-1.2.1&dpr=2&auto=format&fit=crop&w=120&h=200&q=60"},
 
-	{"name": "Adidas Neo W56-234", "price": "129", "currency":"PLN", "imgURL": "http://rekrutacjartb.pl/developer/images/offer6.jpg"}
+	{"name": "Fany shoes", "price": "190", "currency":"PLN", "imgURL": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?ixid=MXwxMjA3fDB8MXxzZWFyY2h8MXx8fHwwfHx8&ixlib=rb-1.2.1&dpr=2&auto=format&fit=crop&w=120&q=60"}
 
 ]}
