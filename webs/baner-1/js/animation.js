@@ -4,13 +4,13 @@ let len = col.length;
 async function init() {
     // added proxy to get around CORS issues for local development  
     const proxyurl = "https://cors-anywhere.herokuapp.com/";
-    const url = "http://rekrutacjartb.pl/developer/banner.json"
+    const url = "https://malgorzatakaminska.github.io/banner.json "
 
     fetch(proxyurl+url)
     .then(response => response.json())
     .then(contents => getRandom(contents.offers))
     .then(setInterval(nextOffer,2000))
-    .catch(() => console.log("Can’t access " + url + " response. Blocked by browser?"))
+    .catch((error) => console.log(error))
 
     function getRandom (offer) {
         // get random offers to initially populate the squares (no repeats)
